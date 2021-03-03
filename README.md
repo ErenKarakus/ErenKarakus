@@ -5,7 +5,7 @@ First year Computer Science BSc student @ Nottingham Trent University. Committee
 - 🔭 I’m currently working on C++
 - 🌱 I’m currently learning C++
 - 💬 Ask me about ...
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tugra-karakus/)
+- 📫 How to reach me: [*Linkedin*](https://www.linkedin.com/in/tugra-karakus/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
