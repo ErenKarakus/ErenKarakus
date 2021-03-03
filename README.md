@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+First year Computer Science BSc student @ Nottingham Trent University
+
+
 <!--
 **unknwnE/unknwnE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
