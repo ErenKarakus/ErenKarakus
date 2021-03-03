@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-First year Computer Science BSc student @ Nottingham Trent University
+First year Computer Science BSc student @ Nottingham Trent University. Committee member @ [The Developer's Society] (https://devsoc.co.uk/home.html)
 
 
 <!--
