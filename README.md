@@ -1,5 +1,5 @@
 ### Hi there 👋
-Second year Computer Science BSc student @ Nottingham Trent University. Committee member @ [Developer's Society](https://devsoc.co.uk/home.html)
+Final year Computer Science BSc student @ Nottingham Trent University. Committee member @ [Developer's Society](https://devsoc.co.uk/home.html)
 
 - 🔭 I’m currently working on C++
 - 🌱 I’m currently learning C++
