@@ -1,27 +1,9 @@
 ### Hi there 👋
-Final year Computer Science BSc student @ Nottingham Trent University. Committee member @ [Developer's Society](https://devsoc.co.uk/home.html)
+- 🎓 BSc (H) Computer Science Graduate from [Nottingham Trent University](https://www.ntu.ac.uk/)
+- Former Senior Committee @ [Developer's Society](https://devsoc.co.uk/home.html)
+  
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) **Linkedin**](https://www.linkedin.com/in/eren-karakus/)
 
-- 🔭 I’m currently working on C++
-- 🌱 I’m currently learning C++
-- 💬 Ask me about ...
-- 📫 How to reach me: [*Linkedin*](https://www.linkedin.com/in/eren-karakus/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErenKarakus&theme=dark&show_icons=true&layout=compact&custom_title=GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErenKarakus&theme=dark&show_icons=true&layout=compact&custom_title=Top%20Languages)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErenKarakus&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErenKarakus)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**unknwnE/unknwnE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
